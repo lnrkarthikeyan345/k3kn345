@@ -18,28 +18,31 @@
 ---
 
 # 🛠️ Tech Stack
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,react,html,css,javascript" />
+</p>
+<!--
 ## Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
+<!--
 ## Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
+<
 ## Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
+<
 ## Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet)
 
----
+--- 
 
 # 📌 Featured Projects
 
@@ -82,7 +85,7 @@ CGPA: **7.71 / 10**
 - 📊 Alteryx Designer Core Certified
 
 ---
-
+<!--
 # 📫 Connect With Me
 
 📧 Email: lnrkarthikeyan345@gmail.com
@@ -90,15 +93,30 @@ CGPA: **7.71 / 10**
 💼 LinkedIn: https://www.linkedin.com/in/karthikeyanlnr345
 
 🌐 GitHub: https://github.com/lnrkarthikeyan345
+-->
 
 ---
-
-# 📊 GitHub Stats
-
-![Karthikeyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnrkarthikeyan345&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lnrkarthikeyan345&layout=compact&theme=tokyonight)
-
 ---
 
-⭐ *Turning data into actionable insights and scalable solutions.*
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/karthikeyanlnr345" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" />
+</a>
+
+<a href="mailto:lnrkarthikeyan345@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" width="50" />
+</a>
+
+<a href="https://github.com/lnrkarthikeyan345" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="50" width="50" />
+</a>
+</p>
+
+
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lnrkarthikeyan345&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
